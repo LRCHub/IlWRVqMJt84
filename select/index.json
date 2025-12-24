@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Golden Time",
+  "base_artist": "SKRYU",
+  "createdAt": "2025-12-24T12:54:26.750296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Golden Time Lover",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/01_Golden_Time_Lover_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Golden Time Rubber",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/02_Golden_Time_Rubber_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Golden Time Lovers(Cover)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/03_Golden_Time_Lovers(Cover)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Golden Time Lover (from \"Fullmetal Alchemist: Brotherhood\") [English Ver]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/04_Golden_Time_Lover_(from__Fullmetal_Alchemist__Brotherhood_)_[English_Ver]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GOLDEN TIME",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/05_GOLDEN_TIME_RIP_SLYME.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Golden Time Rubber (Live)",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/06_Golden_Time_Rubber_(Live)_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Golden Time Lover (backing track)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/07_Golden_Time_Lover_(backing_track)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Golden Time Lover",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/08_Golden_Time_Lover_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Golden Time",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/09_Golden_Time_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Golden Time Lover (from \"Fullmetal Alchemist: Brotherhood\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Golden_Time_Lover_(from__Fullmetal_Alchemist__Brotherhood_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Golden Time",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/11_Golden_Time_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Golden Time",
+      "artist": "Summer Soul",
+      "has_synced": true,
+      "path": "select/12_Golden_Time_Summer_Soul.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Golden Time Lover (from “Fullmetal Alchemist: Brotherhood”) [English Ver]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Golden_Time_Lover_(from_“Fullmetal_Alchemist__Brotherhood”)_[English_Ver]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Golden Time Rubber",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/14_Golden_Time_Rubber_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Golden Time Lover (backing track)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/15_Golden_Time_Lover_(backing_track)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Golden Time Rubber (Backing Track)",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/16_Golden_Time_Rubber_(Backing_Track)_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Golden Time Lover (backing track)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/17_Golden_Time_Lover_(backing_track)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Golden Time (feat. 鎮座DOPENESS)",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Golden_Time_(feat._鎮座DOPENESS)_SKRYU.txt"
+    }
+  ]
+}
